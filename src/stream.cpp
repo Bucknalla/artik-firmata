@@ -5,5 +5,5 @@ using namespace std;
 
 void Stream::write(int data)
 {
-    cout << data;
+    cout << data << endl;
 };
