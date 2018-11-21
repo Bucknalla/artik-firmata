@@ -1,0 +1,6 @@
+13:02:43 **** Clean-only build of configuration GNU ARM v7.2.1 - Default for project firmata ****
+make -j4 clean 
+make: *** No rule to make target `clean'. Stop.
+
+13:02:44 Build Finished (took 325ms)
+

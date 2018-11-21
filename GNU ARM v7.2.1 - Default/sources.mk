@@ -16,6 +16,7 @@ C_DEPS :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
+.metadata/.plugins/org.eclipse.cdt.make.core \
 app/bluetooth/common/util \
 . \
 hardware/kit/common/bsp \
@@ -26,5 +27,4 @@ platform/emdrv/sleep/src \
 platform/emdrv/tempdrv/src \
 platform/emlib/src \
 protocol/bluetooth/lib/EFR32BG1B/GCC \
-protocol/firmata \
 
