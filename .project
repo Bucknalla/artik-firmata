@@ -17,4 +17,11 @@
 		<nature>com.silabs.ss.framework.ide.project.sls.core.SLSProjectNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>platform/emlib/src/em_usart.c</name>
+			<type>1</type>
+			<locationURI>PARENT-6-STUDIO_SDK_LOC/SimplicityStudio/v4_workspace/soc-empty/platform/emlib/src/em_usart.c</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>

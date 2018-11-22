@@ -27,4 +27,5 @@ platform/emdrv/sleep/src \
 platform/emdrv/tempdrv/src \
 platform/emlib/src \
 protocol/bluetooth/lib/EFR32BG1B/GCC \
+protocol/firmata \
 
